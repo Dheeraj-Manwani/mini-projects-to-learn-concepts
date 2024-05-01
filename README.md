@@ -5,4 +5,4 @@ In order to set up any project on your local machine
 2. Open the project you are interested in your code editor
 3. cd frontend or cd backend (if exists)
 4. npm install
-5. npm run dev or tsc-b node dist/index.js
+5. npm run dev or tsc -b && node dist/index.js
